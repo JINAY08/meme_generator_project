@@ -77,3 +77,21 @@ python app.py
 Open the URL shown in your terminal (typically `http://127.0.0.1:7860`).
 
 ---
+
+## 🧠 Model Architecture
+
+The `model/` directory contains:
+
+- Trained model weights  
+- Caption generation models  
+- Supporting utilities for training and inference  
+
+Models can be retrained or swapped with minimal changes to the pipeline.
+
+---
+
+## 🙌 Acknowledgements
+
+Built as a course project exploring controllable generative humor and meme automation.
+
+If you found this useful, consider starring the repository ⭐
