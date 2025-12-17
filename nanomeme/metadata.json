@@ -1,0 +1,5 @@
+{
+  "name": "NanoMeme",
+  "description": "A high-speed AI meme generator powered by Gemini Nano Banana (Flash Image). Create hilarious, styled memes with embedded captions in seconds.",
+  "requestFramePermissions": []
+}
