@@ -10,6 +10,9 @@ multi-caption ranking, evaluation metrics, and Gradio UI.
 
 # Part-2 (Meme Generator built using Diffusion(image)+GPT2(caption) models)
 
+🚀 **Live Demo:**  
+https://huggingface.co/spaces/jinayiim/controllable-meme-generator
+
 The Controllable Meme Generator is designed to automatically generate memes while allowing users to control:
 
 - Humor style (witty, sarcastic, wholesome, etc.)
